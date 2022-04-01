@@ -1,10 +1,8 @@
 ## Hello 👋 my name is Evgeniy Olyanskii. I am a beginner Frontend-Developer.
 
-<hr>
+### Student in Hexlet University.
 
-## Student in Hexlet University.
-
-[![Hexlet](https://img.shields.io/badge/-HEXLET-090d11?style=for-the-badge&)](https://ru.hexlet.io/u/evgeniyol/courses)
+[![Hexlet](https://img.shields.io/badge/-HEXLET-AA2521?style=for-the-badge&)](https://ru.hexlet.io/u/evgeniyol/courses)
 
 ### Languages & Tools
 
