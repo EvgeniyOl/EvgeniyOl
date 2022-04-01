@@ -2,11 +2,11 @@
 
 ### Languages & Tools
 
-![HTML](https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&link=https://www.w3.org/html/logo/badge/html5-badge-h-solo.png&logoColor=#E67E22)
-![CSS](https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&logo=CSS&logoColor=#E67E22)
-![JS](https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&logo=javascript&logoColor=#E67E22)
-![REACT/REDAX](https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&logo=react&logoColor=#E67E22)
-![BOOTSTRAP](https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&logo=bootstrap&logoColor=#E67E22)
+![HTML](https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&logo=HTML&logoColor=#E67E22)
+![CSS](https://img.shields.io/badge/-CSS-lightgrey?style=for-the-badge&logo=CSS&logoColor=#E67E22)
+![JS](https://img.shields.io/badge/-JAVASCRIPT-lightgrey?style=for-the-badge&logo=javascript&logoColor=#E67E22)
+![REACT/REDAX](https://img.shields.io/badge/-REACT/REDAX-lightgrey?style=for-the-badge&logo=react&logoColor=#E67E22)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-lightgrey?style=for-the-badge&logo=bootstrap&logoColor=#E67E22)
 
 <!--
 **EvgeniyOl/EvgeniyOl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
